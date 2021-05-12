@@ -1,4 +1,4 @@
-this is my first file
+this is my first file, and now i'm adding a new feature lmao
 
 also making changes here to test out the reset functionality
 i will aso make some changes here to  see what happens
