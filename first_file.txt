@@ -7,3 +7,7 @@ testing soft resets.
 
 the new test branch begins here. we are just testing what is merging and how it works.
 the above text is the work being put in the new test branch which we will pretend is a new feature being added to the pre existing work a paragraph above.
+
+
+This is the giga branch. this branch will also have a new feature but we wont be doing a fast fforward merge with the main branch.
+instead after adding this feature, we will bbe making a commit in the main branch to see how a real merge functions and behaves.
