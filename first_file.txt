@@ -1,1 +1,5 @@
 this is my first file
+
+also making changes here to test out the reset functionality
+i will aso make some changes here to  see what happens
+testing soft resets.
